@@ -32,4 +32,5 @@ Connection: close
 
 uname=admin%40admin.com&password=12345&submit=
  ````
- 
+ ![Untitled](https://user-images.githubusercontent.com/98345027/212609377-cb579a63-97c3-4653-b76b-bd6a3fd99123.png)
+
